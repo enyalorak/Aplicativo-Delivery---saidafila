@@ -1,6 +1,5 @@
 # aplicativo
-
-A new Flutter project.
+Ainda em desenvolvimento
 
 ## Getting Started
 
